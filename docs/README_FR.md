@@ -1,6 +1,5 @@
 # Eliza
 
-<img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
 
 _Utilisée dans [@DegenSpartanAI](https://x.com/degenspartanai) et [@MarcAIndreessen](https://x.com/pmairca)_
 
