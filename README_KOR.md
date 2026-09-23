@@ -1,7 +1,4 @@
 # Eliza
-
-<img src="./docs/static/img/eliza_banner.jpg" alt="eliza banner" width="100%"/>
-
 ## 기능
 
 -   🛠 SNS 지원: 디스코드, 트위터, 텔레그램 모두 지원됩니다.

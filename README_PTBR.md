@@ -1,7 +1,4 @@
 # Eliza
-
-<img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
-
 ## Funcionalidades
 
 -   🛠 Conectores completos para Discord, Twitter e Telegram
