@@ -1,6 +1,5 @@
 # Eliza
 
-<img src="./docs/static/img/eliza_banner.jpg" alt="eliza banner" width="100%"/>
 
 ## 기능
 
